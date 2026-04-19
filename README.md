@@ -40,16 +40,16 @@ The dashboard enables users to quickly identify dogs that meet specific criteria
 ## Dashboard Demonstration
 
 ### Initial Dashboard (All Data)
-![All Data](d:\GitHub\AKF_CS340_Dashboard\All_Filter.png)
+![All Data](All_Filter.png)
 
 ### Water Rescue Filter Applied
-![Water Rescue](d:\GitHub\AKF_CS340_Dashboard\WaterRescue.png)
+![Water Rescue](WaterRescue.png)
 
 ### Mountain or Wilderness Rescue Filter Applied
-![Mountain Rescue](d:\GitHub\AKF_CS340_Dashboard\Mountain.png)
+![Mountain Rescue](Mountain.png)
 
 ### Disaster or Individual Tracking Filter Applied
-![Disaster Rescue](d:\GitHub\AKF_CS340_Dashboard\SOS.png)
+![Disaster Rescue](SOS.png)
 
 
 ---
