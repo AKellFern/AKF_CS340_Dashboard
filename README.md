@@ -40,16 +40,16 @@ The dashboard enables users to quickly identify dogs that meet specific criteria
 ## Dashboard Demonstration
 
 ### Initial Dashboard (All Data)
-![All Data](All_Filter.png)
+![All Data](images/All_Filter.png)
 
 ### Water Rescue Filter Applied
-![Water Rescue](WaterRescue.png)
+![Water Rescue](images/WaterRescue.png)
 
 ### Mountain or Wilderness Rescue Filter Applied
-![Mountain Rescue](Mountain.png)
+![Mountain Rescue](images/Mountain.png)
 
 ### Disaster or Individual Tracking Filter Applied
-![Disaster Rescue](SOS.png)
+![Disaster Rescue](images/SOS.png)
 
 
 ---
